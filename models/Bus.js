@@ -15,3 +15,4 @@ const BusSchema = new mongoose.Schema(
 module.exports = mongoose.model('Bus', BusSchema);
 
 
+
